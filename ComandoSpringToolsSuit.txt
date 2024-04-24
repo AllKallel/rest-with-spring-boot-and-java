@@ -1,0 +1,3 @@
+ctrl + space ____ To import dependences
+ctrl + shift + o ____ organize imports
+ctrl + alt + setaPraBaixo ____ duplicar linha
